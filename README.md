@@ -1,7 +1,7 @@
 # tic-tac-toe
 Building basic tick tac toe game, with UI and multiplayer capability
 
-* Basic stuff with Basic UI *
+* Basic stuff with Basic UI
 
 ### Divide the project into three parts
 
@@ -10,3 +10,7 @@ Building basic tick tac toe game, with UI and multiplayer capability
 2. Building UI for the user
 
 3. Optimisation code inorder to perform well.
+
+Following article from the below for most part :
+
+https://www.geeksforgeeks.org/tic-tac-toe-gui-in-python-using-pygame/?ref=lbp
